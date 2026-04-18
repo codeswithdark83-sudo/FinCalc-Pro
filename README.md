@@ -23,7 +23,7 @@
 
 | Light Mode | Dark Mode |
 |---|---|
-| *(screenshot)* | *(screenshot)* |
+| ![Light](White-themed.png) | ![Dark](Dark-themed.png) |
 
 ---
 
