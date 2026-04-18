@@ -2,7 +2,7 @@
 
 > A sleek, glassmorphism-styled Progressive Web App combining a scientific calculator with live currency conversion — installable on any device, works offline.
 
-![FinCalc Pro](icons/icon-192.png)
+![FinCalc Pro](FinCalc Pro Thumbnail.png)
 
 ---
 
