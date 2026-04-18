@@ -175,4 +175,7 @@ git checkout -b feature/your-feature-name
 
 ---
 
+[![GitHub](https://img.shields.io/badge/GitHub-@codeswithjatin-181717?style=flat&logo=github)](https://github.com/kolijatin768-rgb)
+[![Linktree](https://img.shields.io/badge/Linktree-codeswithjatin-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/codeswithjatin)
+
 <p align="center">Built with ❤️ by Jatin Kr. Koli</p>
